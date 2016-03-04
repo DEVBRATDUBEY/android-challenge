@@ -1,5 +1,9 @@
 ![Application Icon][icon]
 
+You can download the APK here: [a link][apk].
+
+**Important!** The code was developed **in an hour**. But I took more time writing the README.
+
 # Description
 
 Create an Android application that displays information received over the network.
@@ -74,8 +78,9 @@ The response represents a list of “Guide” objects:
     ]
   }
   ```
-  
-[icon]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/architecture.png "Application Icon"
+
+[apk]: https://github.com/marcellogalhardo/Android-Code-Challenge/releases/download/0.0.1/app-debug.apk "APK to Download"
+[icon]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Application Icon"
 [architecture]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/architecture.png "Application Architecture"
 [repository_pattern]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/repository_pattern.png "Repository Pattern"
 [mvp]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/mvp.png "Model View Presenter"
