@@ -1,6 +1,7 @@
 ![Application Icon][icon]
 
-You can download the APK here: [a link][apk].
+You can download the APK [here][apk].
+To go to the original challenge, [click here][challenge] or [here][challenge-android].
 
 **Important!** The code was developed **in an hour**. But I took more time writing the README.
 
@@ -85,3 +86,5 @@ The response represents a list of “Guide” objects:
 [repository_pattern]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/repository_pattern.png "Repository Pattern"
 [mvp]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/mvp.png "Model View Presenter"
 [app]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/app.png "Application Design"
+[challenge]: https://github.com/Guidebook/code-challenges "Challenge"
+[android-challenge]: https://github.com/Guidebook/code-challenges/blob/master/android/README.md "Android Challenge"
