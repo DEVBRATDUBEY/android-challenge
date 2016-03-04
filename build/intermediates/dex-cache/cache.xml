@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_de2df8ede9f5d37484a1028b7707ad7b46e6672a.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_522ba51f316ed436a6f387b1e6cc0d18f8e8384b.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_f7409cae645d327d3084178c44056bbd857cb639.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_53dda83b8cfdaf27ce66f7735cc00ab3ed63b319.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_e4fad17368c8e6b7d257839554ae60d1a8a0f0ed.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/objenesis-2.1_43e0f4cf737dd818ec89684c8415b3e7aea644b6.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/okio-1.6.0_042a473e0aa299b6f43ca2e1395b707d76287118.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/minlog/1.3.0/ff07b5f1b01d2f92bb00a337f9a94873712f0827/minlog-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/minlog-1.3.0_03b5fd58bbe9b1d2a8cf760f1b429191837e26c1.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/gson-2.4_34dd5c58cd1c6014327695c95d79cf4bd679085d.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_d9e671a9f5cb1b7d42794e9121d0c485569ae227.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_19663a82bad42f6f9a4902cd5f71eacb9c1c7a6d.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_83806fb7f939521ed1bade488818bcbb744b0399.jar" />
+    </item>
+    <item
+        jar="/home/marcello/tools/android/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcc2193db20e19e1feca8b1240dbbc4e190824fa">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/asm-5.0.3_1a439e7a42e2bd937051fc0c3a1ffcc1e7884ba6.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0_590037bc38b9b4aa92f532abeb167afca99f5f9b.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/de.javakaffee/kryo-serializers/0.33/e9639b86ee1ea66c3fcb92a339be71483d75856d/kryo-serializers-0.33.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9639b86ee1ea66c3fcb92a339be71483d75856d">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/kryo-serializers-0.33_fa94aa6e5fdf7e45164f9aec6006cafb10b0dcc9.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.5.0/d737653459be272e881d51024274fa4785225641/okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.5.0_cea507d592bc87645067c49916187173ab52fb81.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryo/3.0.2/bd8205f54692c419820e6fa78a105db5d34cf655/kryo-3.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd8205f54692c419820e6fa78a105db5d34cf655">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/kryo-3.0.2_90adda9a08a2f88e6730159c12f2f3d30b323a74.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_60249658dbb1c0689c5a6c8c40081d2fddbe80bb.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/io.paperdb/paperdb/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b15f2cb58a1850b020fc0cf958788bdd5f0ae6ce">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/io.paperdb-paperdb-1.1_6988cf426698fd899d900d92ef154cb1acb1755b.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2_51508b7cafedb5022ab2a3b6626b8244889abf1a.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_aa95f1a2ebd3661fc679f9c8a94604fa89b5b7ef.jar" />
+    </item>
+    <item
+        jar="/home/marcello/tools/android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_d69f50ddc48d7827374eb9ef0edf5c92a06e4566.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta2_b982a99c38ea8f56988bc010294ae20cd7cebdaf.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.6.1/d9521f2aecb909835746b7a5facf612af5e890e8/protobuf-java-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/protobuf-java-2.6.1_699f05a5e60dd5cbf0b3e7033b80caf939d7bfb5.jar" />
+    </item>
+    <item
+        jar="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_8b503f6f0e92a88ee2f5455b29bc92ae74b91b4f.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/reflectasm/1.10.1/515402cd542ab967a1b5028b4dee1e1800db205b/reflectasm-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="515402cd542ab967a1b5028b4dee1e1800db205b">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/reflectasm-1.10.1_65182b8c7321d05ad41933912b5b364475c659ea.jar" />
+    </item>
+    <item
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/marcello/AndroidStudioProjects/pessoal/Guidebooks/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2_941be20fbfa7ed954e80a91fe2a4254f07a587ac.jar" />
+    </item>
+
+</items>
