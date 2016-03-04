@@ -1,4 +1,4 @@
-Hi, guys. What's up?
+![Application Icon][icon]
 
 # Description
 
@@ -74,3 +74,9 @@ The response represents a list of “Guide” objects:
     ]
   }
   ```
+  
+[icon]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/architecture.png "Application Icon"
+[architecture]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/architecture.png "Application Architecture"
+[repository_pattern]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/repository_pattern.png "Repository Pattern"
+[mvp]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/mvp.png "Model View Presenter"
+[app]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/app.png "Application Design"
