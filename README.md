@@ -23,9 +23,9 @@ Basically I created three main packages: Core, Data and Ui.
 
 ![Clean / Hexagonal Architecture][architecture]
 
-- Core: Keep the domain rules (which in this case are none), models and aggregations models.
-- Date: Responsible for any data used in the application. Uses the Repository pattern.
-- Ui: Responsible views. It is also responsible for the presentation (Presenter).
+- **Core:** Keep the domain rules (which in this case are none), models and aggregations models.
+- **Date:** Responsible for any data used in the application. Uses the Repository pattern.
+- **Ui (View + Presenter):** Responsible views. It is also responsible for the presentation (Presenter).
 
 Obs: **Where is the Interactors in Core Layer?** I did not think it was necessary. I wanted to show my skills, but still want to keep as simple as possible.
 
@@ -49,12 +49,12 @@ I tried to follow the Material Design pattern in available time. Did you like it
 
 ### Libraries
 
-1. RxJava + RxAndroid: This is the best way to work asynchronously and maintain the application scalable. I'm not a genius with Rx, but I really love it.
-2. Retrofit + OkHttp: For Network Request and Rx integration.
-3. Picasso: For image loading.
-4. ButterKnife: For view binding.
-5. PaperDb: For easy caching (database).
-6. Gson: Retrofit integration for deserialize.
+1. **RxJava + RxAndroid:** This is the best way to work asynchronously and maintain the application scalable. I'm not a genius with Rx, but I really love it.
+2. **Retrofit + OkHttp:** For Network Request and Rx integration.
+3. **Picasso:** For image loading.
+4. **ButterKnife:** For view binding.
+5. **PaperDb:** For easy caching (database).
+6. **Gson:** Retrofit integration for deserialize.
 
 # Infraestruture Details
 
