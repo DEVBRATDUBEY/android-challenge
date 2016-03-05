@@ -3,7 +3,7 @@
 You can download the APK [here][apk].
 To go to the original challenge, [click here][challenge-general] or [here][challenge-android].
 
-**Important!** The code was developed **in an hour**. But I took more time writing the README.
+**Important!** The code was developed **in an hour**. But I took (much) more time writing the README.
 
 # Description
 
@@ -60,7 +60,7 @@ I tried to follow the Material Design pattern in available time. Did you like it
 
 The server at the following url responds with JSON formatted data:
 
-```(GET) http://guidebook.com/service/v2/upcomingGuides/```
+```(GET) http://private-c60ade-guidebook1.apiary-mock.com/upcomingGuides```
 
 The response represents a list of “Guide” objects:
 
