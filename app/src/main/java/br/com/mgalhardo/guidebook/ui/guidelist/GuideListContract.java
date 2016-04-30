@@ -5,7 +5,7 @@ import java.util.List;
 import br.com.mgalhardo.guidebook.core.aggregation.GuideAggregation;
 import br.com.mgalhardo.guidebook.core.entity.Guide;
 
-public interface GuideListContract {
+    public interface GuideListContract {
 
     interface View {
         void setupGuideList(List<Guide> companies);
