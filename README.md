@@ -1,5 +1,3 @@
-![Application Icon][icon]
-
 You can download the APK [here][apk].
 To go to the original challenge, [click here][challenge-general] or [here][challenge-android].
 It was developed to serve as an example of RxJava, MVP and Clean Architecture.
