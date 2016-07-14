@@ -2,6 +2,7 @@
 
 You can download the APK [here][apk].
 To go to the original challenge, [click here][challenge-general] or [here][challenge-android].
+It was developed to serve as an example of RxJava, MVP and Clean Architecture.
 
 **Important!** The code was developed **in an hour**. But I took (much) more time writing the README.
 
@@ -24,7 +25,7 @@ Basically I created three main packages: Core, Data and Ui.
 ![Clean / Hexagonal Architecture][architecture]
 
 - **Core:** Keep the domain rules (which in this case are none), models and aggregations models.
-- **Date:** Responsible for any data used in the application. Uses the Repository pattern.
+- **Data:** Responsible for any data used in the application. Uses the Repository pattern.
 - **Ui (View + Presenter):** Responsible views. It is also responsible for the presentation (Presenter).
 
 Obs: **Where is the Interactors in Core Layer?** I did not think it was necessary. I wanted to show my skills, but still want to keep as simple as possible.
@@ -79,6 +80,11 @@ The response represents a list of “Guide” objects:
     ]
   }
   ```
+  
+# Contributors
+Although it was developed at a time to serve as a simple example, if you think you can improve it do not be shy to make your Fork / Pull Request. I will love analyzing improvements to this code.
+
+- [Neto Aranda][contributor_neto_aranda]
 
 [apk]: https://github.com/marcellogalhardo/Android-Code-Challenge/releases/download/0.0.1/app-debug.apk "APK to Download"
 [icon]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Application Icon"
@@ -88,3 +94,4 @@ The response represents a list of “Guide” objects:
 [app]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/app.png "Application Design"
 [challenge-general]: https://github.com/Guidebook/code-challenges "Challenge"
 [challenge-android]: https://github.com/Guidebook/code-challenges/blob/master/android/README.md "Android Challenge"
+[contributor_neto_aranda]: https://github.com/netoaranda
