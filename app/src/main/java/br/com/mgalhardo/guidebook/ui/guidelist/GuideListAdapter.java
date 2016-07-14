@@ -48,11 +48,13 @@ public class GuideListAdapter extends RecyclerView.Adapter<GuideListAdapter.View
                 holder.city.setVisibility(View.GONE);
             } else {
                 holder.city.setText(guide.venue.city);
+                holder.city.setVisibility(View.VISIBLE);
             }
             if (TextUtils.isEmpty(guide.venue.state)) {
                 holder.state.setVisibility(View.GONE);
             } else {
                 holder.state.setText(guide.venue.state);
+                holder.state.setVisibility(View.VISIBLE);
             }
             holder.endDate.setText(guide.endDate);
         }
