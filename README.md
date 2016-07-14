@@ -1,3 +1,5 @@
+**Important!** This version of the README is depreciated. I added support for Dagger Dependency Injection and redid the package structure with the goal of leaving the cleaner design. I'll be updating this README as fast as possible to keep true to the code. Thank you!
+
 You can download the APK [here][apk].
 To go to the original challenge, [click here][challenge-general] or [here][challenge-android].
 It was developed to serve as an example of RxJava, MVP and Clean Architecture.
