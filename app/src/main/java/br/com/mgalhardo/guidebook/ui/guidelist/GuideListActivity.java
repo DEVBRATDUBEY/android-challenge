@@ -16,25 +16,25 @@ import br.com.mgalhardo.guidebook.data.local.GuideCache;
 import br.com.mgalhardo.guidebook.data.remote.GuideService;
 import br.com.mgalhardo.guidebook.data.repository.GuideRepository;
 import br.com.mgalhardo.guidebook.data.repository.impl.GuideRepositoryImpl;
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class GuideListActivity extends AppCompatActivity implements GuideListContract.View {
 
-    @Bind(R.id.recyclerview)
+    @BindView(R.id.recyclerview)
     RecyclerView guideList;
 
-    @Bind(R.id.successContainer)
+    @BindView(R.id.successContainer)
     LinearLayout successContainer;
 
-    @Bind(R.id.errorContainer)
+    @BindView(R.id.errorContainer)
     LinearLayout errorContainer;
 
-    @Bind(R.id.loadingContainer)
+    @BindView(R.id.loadingContainer)
     LinearLayout loadingContainer;
 
-    @Bind(R.id.emptyContainer)
+    @BindView(R.id.emptyContainer)
     LinearLayout emptyContainer;
 
     private GuideListContract.Presenter presenter;

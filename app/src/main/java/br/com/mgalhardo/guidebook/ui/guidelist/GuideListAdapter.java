@@ -15,7 +15,7 @@ import java.util.List;
 
 import br.com.mgalhardo.guidebook.R;
 import br.com.mgalhardo.guidebook.core.entity.Guide;
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 public class GuideListAdapter extends RecyclerView.Adapter<GuideListAdapter.ViewHolder> {
@@ -65,19 +65,19 @@ public class GuideListAdapter extends RecyclerView.Adapter<GuideListAdapter.View
 
     public class ViewHolder extends RecyclerView.ViewHolder {
 
-        @Bind(R.id.icon)
+        @BindView(R.id.icon)
         ImageView icon;
 
-        @Bind(R.id.name)
+        @BindView(R.id.name)
         TextView name;
 
-        @Bind(R.id.city)
+        @BindView(R.id.city)
         TextView city;
 
-        @Bind(R.id.state)
+        @BindView(R.id.state)
         TextView state;
 
-        @Bind(R.id.end_date)
+        @BindView(R.id.end_date)
         TextView endDate;
 
         ViewHolder(View v) {
