@@ -1,4 +1,4 @@
-**Important!** This version of the README is depreciated. I added support for Dagger Dependency Injection and redid the package structure with the goal of leaving the cleaner design. I'll be updating this README as fast as possible to keep true to the code. Thank you!
+**Important!** This version of the README is depreciated. I added support for Dagger Dependency Injection and redid the package structure with the goal of leaving the cleaner design. These changes are being made based on suggestions, tips and advice received in [this Reddit question][reddit-question]. I'll be updating this README as fast as possible to keep true to the code. Thank you!
 
 You can download the APK [here][apk].
 To go to the original challenge, [click here][challenge-general] or [here][challenge-android].
@@ -86,6 +86,7 @@ Although it was developed at a time to serve as a simple example, if you think y
 
 - [Neto Aranda][contributor_neto_aranda]
 
+[reddit-question]: https://www.reddit.com/r/androiddev/comments/4styg9/i_made_a_sample_application_using_mvp_and_rxjava/
 [apk]: https://github.com/marcellogalhardo/Android-Code-Challenge/releases/download/0.0.1/app-debug.apk "APK to Download"
 [icon]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Application Icon"
 [architecture]: https://raw.githubusercontent.com/marcellogalhardo/Android-Code-Challenge/master/images/architecture.png "Application Architecture"
