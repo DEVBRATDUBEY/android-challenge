@@ -42,7 +42,7 @@ public class GuideListActivity extends BaseActivity implements GuideListContract
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         ButterKnife.bind(this);
-        getMainComponent().inject(this);
+        getUiComponent().inject(this);
         initialize();
     }
 
