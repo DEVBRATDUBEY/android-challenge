@@ -70,5 +70,5 @@ dependencies {
 
     // Test Dependencies.
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:24.0.0'
+    testCompile 'org.mockito:mockito-all:1.10.19'
 }

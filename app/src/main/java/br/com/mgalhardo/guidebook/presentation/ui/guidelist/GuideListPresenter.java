@@ -49,7 +49,6 @@ public class GuideListPresenter implements GuideListContract.Presenter {
 
     @Override
     public void retryButtonClick() {
-        view.showLoadingLayout();
         loadGuides();
     }
 
