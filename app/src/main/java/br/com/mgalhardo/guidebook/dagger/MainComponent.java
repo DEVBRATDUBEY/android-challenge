@@ -16,10 +16,10 @@ import dagger.Component;
 
 @Singleton
 @Component(modules = {
-        ApplicationModule.class, NetworkModule.class, PreferenceModule.class, PresenterModule.class,
+        ApplicationModule.class, NetworkModule.class, PreferenceModule.class,
         RepositoryModule.class, SettingModule.class, RxJavaModule.class, ServiceModule.class,
         ManagerModule.class
 })
 public interface MainComponent {
-    void inject(GuideListActivity activity);
+    UiComponent uiComponent();
 }
