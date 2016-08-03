@@ -85,6 +85,7 @@ The response represents a list of “Guide” objects:
 Although it was developed at a time to serve as a simple example, if you think you can improve it do not be shy to make your Fork / Pull Request. I will love analyzing improvements to this code.
 
 - [Neto Aranda][contributor_neto_aranda]
+- [Vinícius Soares][contributor_vinicius_soares]
 
 [reddit-question]: https://www.reddit.com/r/androiddev/comments/4styg9/i_made_a_sample_application_using_mvp_and_rxjava/
 [apk]: https://github.com/marcellogalhardo/Android-Code-Challenge/releases/download/0.0.1/app-debug.apk "APK to Download"
@@ -96,3 +97,4 @@ Although it was developed at a time to serve as a simple example, if you think y
 [challenge-general]: https://github.com/Guidebook/code-challenges "Challenge"
 [challenge-android]: https://github.com/Guidebook/code-challenges/blob/master/android/README.md "Android Challenge"
 [contributor_neto_aranda]: https://github.com/netoaranda
+[contributor_vinicius_soares]: https://github.com/viniciussoares
