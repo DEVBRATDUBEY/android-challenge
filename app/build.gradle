@@ -10,16 +10,14 @@ buildscript {
 }
 
 apply plugin: 'com.android.application'
-apply plugin: 'me.tatarka.retrolambda'
-apply plugin: 'com.neenbedankt.android-apt'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.0"
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
     defaultConfig {
         applicationId "br.com.mgalhardo.guidebook"
         minSdkVersion 15
-        targetSdkVersion 24
+        targetSdkVersion 27
         versionCode 1
         versionName "1.0"
     }
@@ -37,38 +35,36 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-
     // Google Dependencies.
-    compile 'com.android.support:appcompat-v7:24.0.0'
-    compile 'com.android.support:support-v4:24.0.0'
-    compile 'com.android.support:design:24.0.0'
-    compile 'com.android.support:recyclerview-v7:24.0.0'
-    compile 'com.google.code.gson:gson:2.4'
+    implementation 'com.android.support:appcompat-v7:27.0.0'
+    implementation 'com.android.support:support-v4:27.0.0'
+    implementation 'com.android.support:design:27.0.0'
+    implementation 'com.android.support:recyclerview-v7:27.0.0'
+    implementation 'com.google.code.gson:gson:2.4'
 
     // Dagger Dependencies.
-    compile 'com.google.dagger:dagger:2.5'
-    apt 'com.google.dagger:dagger-compiler:2.5'
-    provided 'org.glassfish:javax.annotation:10.0-b28'
+    implementation 'com.google.dagger:dagger:2.5'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.5'
+    compileOnly 'org.glassfish:javax.annotation:10.0-b28'
 
     // ReactiveX Dependecies.
-    compile 'io.reactivex:rxandroid:1.1.0'
-    compile 'io.reactivex:rxjava:1.1.0'
+    implementation 'io.reactivex:rxandroid:1.1.0'
+    implementation 'io.reactivex:rxjava:1.1.0'
 
     // Square Dependencies.
-    compile 'com.squareup.retrofit2:retrofit:2.1.0'
-    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
-    compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
-    compile 'com.squareup.okhttp3:okhttp:3.3.1'
-    compile 'com.squareup.okhttp3:logging-interceptor:3.3.1'
-    compile 'com.squareup.picasso:picasso:2.5.2'
-    compile 'com.jakewharton:butterknife:8.1.0'
-    apt 'com.jakewharton:butterknife-compiler:8.1.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.1.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.3.1'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.3.1'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.jakewharton:butterknife:8.1.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.1.0'
 
     // Others Dependencies.
-    compile 'io.paperdb:paperdb:1.1'
+    implementation 'io.paperdb:paperdb:1.1'
 
     // Test Dependencies.
-    testCompile 'junit:junit:4.12'
-    testCompile 'org.mockito:mockito-all:1.10.19'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.mockito:mockito-all:1.10.19'
 }
